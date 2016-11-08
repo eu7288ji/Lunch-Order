@@ -35,7 +35,7 @@ namespace Project_10_2
              if (radioButton1.Checked)
             {
                 clearCBox();
-                groupBox2.Text = ("Add-on Items [$.75/each]");
+                groupBox2.Text = ("Add-on Items [$.75/each]"); //text 
                 checkBox1.Text = ("Lettuce, tomato, and onions");
                 checkBox2.Text = ("Mayonnaise and mustard");
                 checkBox3.Text = ("French fries");
